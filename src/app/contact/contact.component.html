@@ -1,0 +1,103 @@
+<body>
+    <header class="site-header sticky-top mb-auto">
+        <nav class="navbar navbar-expand-lg bg-dark px-3" data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="./">nas 🍵</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText">
+                    <span class="navbar-toggler-icon"><i class="bi bi-list"></i></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./projects">Projects</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="./contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+
+    <main>
+        <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+            <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                <div class="my-3 py-3">
+                    <h2 class="display-5">Contact Form</h2>
+                    <p class="lead">
+                        I will do my best to respond in the next 72 hours.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col px-3">
+                    <form class="gform" action="https://script.google.com/macros/s/AKfycbwpGGyval1LGump7DrywEDi4HG-aZgH4TM-4e2OzgYE1X64n9GKuKNIsRGj3HaTE0r35Q/exec" method="POST" role="form" enctype="multipart/form-data">
+                        
+                        <div class="row">
+                            <div class="form-group col-md-4">
+                                <label for="category">Category</label>
+                                <select name="category" class="form-control" required>
+                                    <option value="">Choose a category</option>
+                                    <option value="Job Request">Job Request</option>
+                                    <option value="Ideas">Ideas</option>
+                                    <option value="Collaboration">Collaboration</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-md-8">
+                                <label for="email">Email</label>
+                                <input type="email" name="email" class="form-control" required>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label for="firstName">First Name</label>
+                                <input type="text" name="firstName" class="form-control" required>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="lastName">Last Name</label>
+                                <input type="text" name="lastName" class="form-control" required>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="subject">Subject</label>
+                            <input type="text" name="subject" class="form-control" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea name="message" class="form-control" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+    </main>
+
+    <footer class="container text-center">
+        <p>
+            nas 🍵 portfolio website coded using <a href="https://angular.io/" target="_blank">Angular</a>, <a
+                href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a> and <a
+                href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>.
+        </p>
+        <p class="contact-links">
+            <a href="https://github.com/hiimnas" target="_blank"><i class="bi bi-github"></i></a> ·
+            <a href="https://www.linkedin.com/in/anastasios-karameros-2470111b0/" target="_blank"><i
+                    class="bi bi-linkedin"></i></a> · 
+            <a href="https://www.ebay.co.uk/usr/anastkara_58" target="_blank"><i class="bi bi-shop"></i></a> · 
+            <a href="https://www.youtube.com/channel/UCXeYoMBug5Suflf2BtCjuhQ" target="_blank"><i class="bi bi-youtube"></i></a>
+        </p>
+    </footer>
+</body>

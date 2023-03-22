@@ -1,0 +1,130 @@
+.container {
+    max-width: 960px;
+}
+
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+
+.position-relative.overflow-hidden.p-3.p-md-5.m-md-3.text-center.bg-light.main-text {
+    background-image: url('https://drive.google.com/uc?export=view&id=1lDZvNQQJSCCoAI2FBeto_xo0NRQ2YllM') !important;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.site-header a {
+    transition: color .15s ease-in-out;
+}
+
+.site-header a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar-toggler-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.proj-sect {
+    height: 41vw;
+}
+
+.visual-1 {
+    position: absolute;
+    top: 6%;
+    left: 17vw;
+    width: 12vw;
+    height: 12vw;
+    background-image: url('https://drive.google.com/uc?export=view&id=1lCJld1ZWhwtjtoggLpjwfi5bIvq9HSGO');
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: none !important;
+}
+
+.visual-2 {
+    position: absolute;
+    top: 62%;
+    left: 67vw;
+    height: 12vw;
+    width: 20vw;
+    background-image: url('https://drive.google.com/uc?export=view&id=1lBUt53QP1Fz100QQ6StR-S81VXVMnGgY');
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: none !important;
+}
+
+.cust-list {
+    text-align: left;
+}
+
+.cust-list.education {
+    list-style: url('../../journal-check.svg');
+}
+
+.cust-list.job {
+    list-style: url('../../briefcase.svg');
+    max-width: 50%;
+    align-self: center;
+}
+
+.my-3.p-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cust-list li {
+    margin: 6px 8px;
+}
+
+.intel-btn {
+    background-image: url('../../intel.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 30px;
+}
+
+.reel {
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    grid-template-rows: auto auto;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.reel img {
+    width: 100%;
+}
+
+.reel>a {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+}
+
+footer {
+    padding-top: 16px;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.flex-equal>* {
+    flex: 1;
+}
+
+@media (min-width: 768px) {
+    .flex-md-equal>* {
+        flex: 1;
+    }
+}
