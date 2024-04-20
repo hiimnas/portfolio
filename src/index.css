@@ -1,0 +1,61 @@
+:root {
+  --bg-dark: #1C1C27;
+  --bgLight-dark: #1C1E27;
+  --primary-dark: #854CE6;
+  --text-primary-dark: #F2F3F4;
+  --text-secondary-dark: #b1b2b3;
+  --card-dark: #171721;
+  --card-light-dark: #191924;
+  --button-dark: #854CE6;
+  --white: #FFFFFF;
+  --black: #000000;
+
+  --bg-light: #FFFFFF;
+  --bgLight-light: #f0f0f0;
+  --primary-light:#be1adb;
+  --text-primary-light:#111111;
+  --text-secondary-light:#48494a;
+  --card-light:#FFFFFF;
+  --button-light:#5c5b5b;
+
+  --red: #dc143c;
+  --blue: #4da6ff;
+  --green: #88cb86;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+  scroll-behavior: smooth !important;
+}
+
+body{
+  margin: 0px !important;
+  padding: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 4px;
+    height: 80px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:#222A35;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #575C66;
+    border-radius: 6px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #626970;
+  }
