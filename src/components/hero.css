@@ -37,7 +37,7 @@
     width: 72%;
 }
 
-.h2 {
+.hero-left .h2 {
     display: flex;
     flex-wrap: nowrap;
     gap: 8px;

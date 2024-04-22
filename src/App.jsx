@@ -3,7 +3,10 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Skills from './components/Skills';
-import Experience from './components/Experience';
+import Background from './components/Background';
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+
 
 function App() {
   return (
@@ -13,8 +16,10 @@ function App() {
         <Hero />
         <div className='wrapper'>
           <Skills />
-          <Experience />
+          <Background />
         </div>
+        <Portfolio />
+        <Contact />
       </main>
       
     </div>

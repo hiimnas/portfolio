@@ -1,0 +1,123 @@
+.bg {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg .display-4 {
+    color: var(--text-primary-dark);
+    text-align: center;
+}
+
+.bg .lead {
+    max-width: 888px;
+    text-align: center;
+    color: var(--text-secondary-dark);
+}
+
+.timeline-container {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.bg-card {
+    width: 650px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 12px 16px;
+    justify-content: space-between;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    transition: all 1s;
+    border: 1px solid var(--green);
+    box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
+}
+
+.bg-card:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.bg-card .card-header {
+    display: flex;
+    gap: 12px;
+    width: 100%;
+}
+
+.bg-card .card-logo {
+    height: 62px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid var(--bs-dark);
+    align-self: center;
+}
+
+.bg-card .card-info {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.bg-card .card-info .h5 {
+    color: var(--text-primary-dark);
+    margin: 0;
+}
+
+.bg-card .card-info .h6 {
+    color: var(--text-secondary-dark);
+    margin: 0;
+}
+
+.card-desc {
+    width: 100%;
+    color: var(--text-primary-dark);
+}
+
+.card-desc .fs-7 {
+    font-size: 16px;
+}
+
+.card-skills {
+    width: 100%;
+    gap: 12px;
+}
+
+.card-skills .fs-7 {
+    margin: 0;
+    font-size: 90%;
+}
+
+@media screen and (max-width: 768px) {
+    .bg-card {
+        padding: 10px;
+        gap: 8px;
+        width: 300px;
+    }
+
+    .bg-card .card-logo {
+        height: 50px;
+    }
+
+    .bg-card .card-info .h5 {
+        font-size: 18px;
+    }
+
+    .bg-card .card-info .h6 {
+        font-size: 14px;
+    }
+
+    .card-desc .fs-7 {
+        font-size: 14px;
+    }
+}

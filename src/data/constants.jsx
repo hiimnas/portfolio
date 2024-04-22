@@ -1,183 +1,183 @@
 export const Bio = {
-    name: "Anastasios Karameros",
+    name: 'Anastasios Karameros',
     roles: [
-      "Web Developer",
-      "Web Designer",
-      "Graphics Designer",
-      "IT Consultant",
+      'Web Developer',
+      'Web Designer',
+      'Graphics Designer',
+      'IT Consultant',
     ],
-    description:
-      "My goal is to change the world by supporting and inspiring others, one person at a time. My work is a way of life. I work hard every day, driven by creativity and a desire for perfection, tackling challenges directly and seeking opportunities to make a positive impact. From custom hardware to professional websites, I bring passion, expertise, and positivity to every single project. With diverse skills and thirst for knowledge, I am committed to delivering great results."
+    description: 'My goal is to change the world by supporting and inspiring others, one person at a time. My work is a way of life. I work hard every day, driven by creativity and a desire for perfection, tackling challenges directly and seeking opportunities to make a positive impact. From custom hardware to professional websites, I bring passion, expertise, and positivity to every single project. With diverse skills and thirst for knowledge, I am committed to delivering great results.',
+    resume: 'https://e.pcloud.link/publink/show?code=XZCso9Zrkb8PMfCsu71I7SQbSuVDHjTdImV'
   };
   
   export const skills = [
     {
-      title: "Frontend",
+      title: 'Frontend',
       skills: [
         {
-          name: "HTML",
-          img: "./html.png",
+          name: 'HTML',
+          img: './html.png',
           progress: '92'
         },
         {
-          name: "CSS",
-          img: "./css.png",
+          name: 'CSS',
+          img: './css.png',
           progress: '90'
         },
         {
-          name: "JavaScript",
-          img: "./javascript.png",
+          name: 'JavaScript',
+          img: './javascript.png',
           progress: '76'
         },
         {
-          name: "Bootstrap",
-          img: "./bootstrap.png",
+          name: 'Bootstrap',
+          img: './bootstrap.png',
           progress: '94'
         },
         {
-          name: "Material UI",
-          img: "./mui.png",
+          name: 'Material UI',
+          img: './mui.png',
           progress: '76'
         },
         {
-          name: "Tailwind CSS",
-          img: "./tailwind-css.png",
+          name: 'Tailwind CSS',
+          img: './tailwind-css.png',
           progress: '80'
         },
         {
-          name: "React JS",
-          img: "./react-js.png",
+          name: 'React JS',
+          img: './react-js.png',
           progress: '91'
         },
         {
-          name: "Angular",
-          img: "./angular.png",
+          name: 'Angular',
+          img: './angular.png',
           progress: '72'
         }
       ],
     },
     {
-      title: "Backend",
+      title: 'Backend',
       skills: [
         {
-          name: "Node JS",
-          img: "./node-js.png",
+          name: 'Node JS',
+          img: './node-js.png',
           progress: '70'
         },
         {
-          name: "PHP",
-          img: "./php.png",
+          name: 'PHP',
+          img: './php.png',
           progress: '74'
         },
         {
-          name: "Python",
-          img: "./python.png",
+          name: 'Python',
+          img: './python.png',
           progress: '79'
         },
         {
-          name: "C#",
-          img: "./c-sharp.png",
+          name: 'C#',
+          img: './c-sharp.png',
           progress: '81'
         },
         {
-          name: "Java",
-          img: "./java.png",
+          name: 'Java',
+          img: './java.png',
           progress: '56'
 
         },
         {
-          name: "SQL",
-          img: "./my-sql.png",
+          name: 'SQL',
+          img: './my-sql.png',
           progress: '83'
         },
         {
-          name: "Firebase",
-          img: "./firebase.png",
+          name: 'Firebase',
+          img: './firebase.png',
           progress: '50'
         }
       ],
     },
     {
-      title: "Languages",
+      title: 'Languages',
       skills: [
         {
-          name: "English",
-          img: "./uk.png",
+          name: 'English',
+          img: './uk.png',
           progress: '96'
         },
         {
-          name: "Bulgarian",
-          img: "./bulgaria.png",
+          name: 'Bulgarian',
+          img: './bulgaria.png',
           progress: '84'
         },
         {
-          name: "Chinese",
-          img: "./china.png",
+          name: 'Chinese',
+          img: './china.png',
           progress: '78'
         },
         {
-          name: "Japanese",
-          img: "./japan.png",
+          name: 'Japanese',
+          img: './japan.png',
           progress: '80'
         },
         {
-          name: "German",
-          img: "./germany.png",
+          name: 'German',
+          img: './germany.png',
           progress: '48'
         }
       ],
     },
     {
-      title: "Other",
+      title: 'Other',
       skills: [
         {
-          name: "Photoshop",
-          img: "./adobe-photoshop.png",
+          name: 'Photoshop',
+          img: './adobe-photoshop.png',
           progress: '96'
         },
         {
-          name: "Premiere Pro",
-          img: "./adobe-premiere-pro.png",
+          name: 'Premiere Pro',
+          img: './adobe-premiere-pro.png',
           progress: '81'
         },
         {
-          name: "Figma",
-          img: "./figma.png",
+          name: 'Figma',
+          img: './figma.png',
           progress: '76'
         },
         {
-          name: "GitHub",
-          img: "./github.png",
+          name: 'GitHub',
+          img: './github.png',
           progress: '80'
         },
         {
-          name: "Word",
-          img: "./word.png",
+          name: 'Word',
+          img: './word.png',
           progress: '100'
         },
         {
-          name: "PowerPoint",
-          img: "./powerpoint.png",
+          name: 'PowerPoint',
+          img: './powerpoint.png',
           progress: '100'
         },
         {
-          name: "Excel",
-          img: "./excel.png",
+          name: 'Excel',
+          img: './excel.png',
           progress: '100'
         },
         {
-          name: "Audacity",
-          img: "./audacity.png",
+          name: 'Audacity',
+          img: './audacity.png',
           progress: '91'
         },
         {
-          name: "TeamViewer",
-          img: "./teamviewer.png",
+          name: 'TeamViewer',
+          img: './teamviewer.png',
           progress: '80'
         },
         {
-          name: "Cloud Storage",
-          img: "./cloud.png",
+          name: 'Cloud Storage',
+          img: './cloud.png',
           progress: '100'
         },
       ],
@@ -187,335 +187,181 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-      role: "DevOps & Fullstack Engineering Intern",
-      company: "Flipr Inovations Pvt. Ltd.",
-      date: "Aug 2023 - July 2023",
-      desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+      img: './stellar.png',
+      role: 'English Instructor',
+      company: 'Premium Cafe Eikaiwa (Stellar Corp.)',
+      date: 'April 2023 - Present',
+      desc: 'Teaching conversational and business English to adults of all ages and backgrounds in group and private lessons. Focusing on developing free thinking, self-expression and confidence in English with tact.',
       skills: [
-        "Docker",
-        "Terraform",
-        "AWS",
-        "EC2",
-        "Portainer",
-        "Nginx",
-        "JavaScript",
-        "TypeScript",
-        "Node Js",
-        " Next Js",
+        'Presentation design and delivery',
+        'Fluent communication in English and Japanese',
+        'Customer Relationship Management',
+        'Hosting and Sharing Files over the Cloud',
+        'Microsoft Word, PowerPoint, Teams'
       ],
-      doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-    },
-    {
-      id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-      role: "Frontend Engineer Intern",
-      company: "Neurobit",
-      date: "June 2023 - Present",
-      desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-      skills: [
-        "ReactJS",
-        "Redux",
-        "NodeJs",
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
-      ],
-      doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-      role: "Fullstack Externship",
-      company: "Flipr",
-      date: "June 2023 - July 2023",
-      desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+      img: './freelance.jpg',
+      role: 'Web Developer & Designer',
+      company: 'Freelance',
+      date: 'Oct 2022 - Present',
+      desc: 'Designed and developed websites for various clients, providing creative solutions and user-friendly designs. Worked from multiple online platforms and maintained a strong customer base. Small-medium scale projects.',
       skills: [
-        "ReactJS",
-        "Redux",
-        "NodeJs",
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Docker",
-        "AWS",
-        "MongoDB",
+        'HTML, CSS, JavaScript, React JS, Bootstrap, Angular',
+        'Design with Dreamweaver, Figma, Photoshop, etc.',
+        'Python, C#, NodeJS, SQL',
+        'GitHub',
       ],
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-      role: "Open Source Contributor ",
-      company: "GirlScript Summer of Code",
-      date: "May 2023 - Present",
-      desc: "Contributing to different open-source projects and learn from industry experts",
-      doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
+      img: './hardware.jpg',
+      role: 'Hardware Engineer',
+      company: 'Freelance',
+      date: 'Oct 2022 - March 2023',
+      desc: 'Fixed and built custom PC solutions for a wide variety of clients across the UK, distributing with famous online marketplaces, e.g. eBay. Managed and owned by myself, resolving customer complaints, technical issues and more without extra remuneration.',
+      skills: [
+        'Technical Knowledge of PC Hardware',
+        'E-Commerce and International Shipping',
+        'Issue troubleshooting with TeamViewer and advanced Windows software knowledge',
+        'Graphics design and branding with Photoshop and Premiere Pro',
+        'Listing management'
+      ],
     },
     {
       id: 3,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-      role: "Android Developer",
-      company: "DSC KIIT",
-      date: "Nov2021 - Present",
-      desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+      img: './schroders.png',
+      role: 'Business Analyst Apprentice',
+      company: 'Schroders',
+      date: 'Sept 2020 - Oct 2022',
+      desc: 'Proposed and developed a project information gathering system with my team, improving project tracking and efficiency. Conducted customer research and analyzed data (internal and external) to gauge their needs and preferences. Created comprehensive documentation on business processes.',
       skills: [
-        "Leadership",
-        "Mobile Application Development",
-        "Kotlin",
-        "XML",
-        "Figma",
+        'HTML, CSS, JavaScript, Bootstrap, Material UI',
+        'PHP, Node JS, Python',
+        'SQL',
+        'GitHub',
+        'Microsoft Word, PowerPoint, Excel',
+        'Business process analysis and improvement',
+        'Data gathering and analysis',
+        'Customer research and needs assessment',
+        'Documentation and report writing',
+        'Team collaboration and project comanagement'
       ],
     },
     {
       id: 4,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-      role: "Android Developer Intern",
-      company: "Rudraksha Welffare Foundation",
-      date: "June 2021 - Oct 2021",
-      desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
+      img: './lbgg.jpg',
+      role: 'League of Legends Booster',
+      company: 'lolboost.gg',
+      date: 'July 2018 - Oct 2019',
+      desc: 'Boosting game performance for players, providing my gameplay as a service to improve other players\' rankings and achievements in popular online game League of Legends.',
       skills: [
-        "Android",
-        "Java",
-        "Kotlin",
-        "XML",
-        "Node Js",
-        "Cloud Firestore",
-        "Firebase",
-        "Figma",
+        'In-depth knowledge of game mechanics and strategies',
+        'Effective communication and teamwork skills',
+        'Analytical thinking, alertness, focus and problem-solving in a fast-paced, dynamic environment',
+        'Time management and schedule coordination with school',
+        'Customer service'
       ],
-      doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
     },
   ];
   
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-      school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-      date: "Oct 2021 - Sep 2025",
-      grade: "8.71 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-      degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+      img: './ou.png',
+      school: 'The Open University',
+      date: 'Apr. 2022 - July 2025',
+      desc: 'Studied a wide range of topics in computing and IT while also exploring design principles and applications.',
+      degree: 'Bachelor of Science (BSc) in Computing & IT and Design as a Second Subject',
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2019 - Apr 2025",
-      grade: "88.2%",
-      desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-      degree: "ISC(XII), Science with Computer",
+      img: './tg.jpg',
+      school: 'Kansai College of Business and Languages (関西外語専門学校)',
+      date: 'Apr. 2023 - Apr. 2025 (in progress)',
+      desc: 'Focused on Japanese language and culture, enhancing communication skills and understanding.',
+      degree: 'Associates Degree in Japanese, Japanese Language Proficiency Test N2 Level',
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2017 - Apr 2019",
-      grade: "92.3%",
-      desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-      degree: "ICSC(X), Science with Computer",
+      img: './softuni.jpg',
+      school: 'Software University BG (Софтуерен Университет БГ)',
+      date: 'Sept. 2020 - June 2023',
+      desc: 'Developed expertise in C# programming and web development, gaining practical skills for software engineering.',
+      degree: 'C# Web Developer Diploma',
     },
+    {
+      id: 3,
+      img: './hmg.png',
+      school: 'HM Government | Institute for Apprenticeships and Technical Education',
+      date: 'Sept. 2020 - May 2022',
+      desc: 'Studied business analysis, honing analytical and problem-solving abilities for real-world applications.',
+      degree: 'Level 4 Business Analyst Diploma',
+    },
+    {
+      id: 4,
+      img: './ticc.png',
+      school: 'Tianjin International Chinese College (online)',
+      date: 'July 2020 - Mar. 2022',
+      desc: 'Attained proficiency in the Chinese language through comprehensive study, practice and dedication during the pandemic.',
+      degree: 'Chinese Proficiency Test (HSK) Level 6',
+    },
+    {
+      id: 5,
+      img: './daos.png',
+      school: 'Dame Alice Owen\'s School',
+      date: 'Sept. 2018 - July 2020',
+      desc: 'Excelled in rigorous academic subjects and developed strong foundational knowledge.',
+      degree: 'A-Levels in Maths, Further Maths, Physics and German',
+    },
+    {
+      id: 6,
+      img: './bsc.png',
+      school: 'Bishop\'s Stortford College',
+      date: 'Sept. 2016 - July 2018',
+      desc: 'Achieved academic success while actively participating in the vibrant school community.',
+      degree: '10 GCSEs in many subjects',
+    }
   ];
   
   export const projects = [
     {
-      id: 9,
-      title: "Trackify",
-      date: "Jun 2023 - Jul 2023",
-      description:
-        "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-      image:
-        "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-      tags: [
-        "Docker",
-        "AWS",
-        "DuckDNS",
-        "Eslint",
-        "Husky",
-        "CI/CD",
-        "React Js",
-        "MongoDb",
-        "Node Js",
-        "Express Js",
-        "Redux",
-      ],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Trackify",
-      webapp: "https://trackify.duckdns.org",
-    },
-    {
       id: 0,
-      title: "Podstream",
-      date: "Apr 2023 - May 2023",
-      description:
-        "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-      image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Podstream",
-      webapp: "https://podstream.netlify.app/",
-      member: [
-        {
-          name: "Rishav Chanda",
-          img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-          linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-          github: "https://github.com/rishavchanda/",
-        },
-        {
-          name: "Upasana Chaudhuri",
-          img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-          linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-          github: "https://github.com/upasana0710",
-        },
-      ],
+      title: 'Purifai',
+      date: 'March 2024',
+      desc: 'React JS web application for an original company imagined and designed, called Purifai. The premise is, it\'s a company that provides an alternative GPT that can do more than any current competitor, while keeping things simple for everyone.',
+      img: './purifai.jpg',
+      tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'Dark Mode', 'Responsive'],
+      github: 'https://github.com/hiimnas/purifai',
+      webapp: 'https://hiimnas.github.io/purifai',
     },
     {
       id: 1,
-      title: "Vexa",
-      date: "Oct 2022 - Present",
-      description:
-        "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-      image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-      tags: [
-        "React Js",
-        "MongoDb",
-        "Node Js",
-        "Express Js",
-        "Redux",
-        "NodeMailer",
-      ],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Project-Management-App",
-      webapp: "https://vexa-app.netlify.app/",
+      title: 'eat42',
+      date: 'Apr 2024',
+      desc: 'React JS web application for an original restaurant imagined and designed, called eat42. Fine dining meets fusion cooking across cultures.',
+      img: './eat42.jpg',
+      tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'Dark Mode', 'Responsive', 'Bootstrap'],
+      github: 'https://github.com/hiimnas/eat42',
+      webapp: 'https://hiimnas.github.io/eat42',
     },
     {
       id: 2,
-      title: "Brain Tumor Detection",
-      date: "Jan 2023 - Mar 2023",
-      description:
-        "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-      image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-      tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-      category: "machine learning",
-      github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-      webapp: "https://brain-tumor.netlify.app/",
-      member: [
-        {
-          name: "Rishav Chanda",
-          img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-          linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-          github: "https://github.com/rishavchanda/",
-        },
-        {
-          name: "Upasana Chaudhuri",
-          img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-          linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-          github: "https://github.com/upasana0710",
-        },
-      ],
-    },
-    {
-      id: 3,
-      title: "Buckoid",
-      date: "Dec 2021 - Apr 2022",
-      description:
-        "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-      image:
-        "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-      tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-      category: "android app",
-      github: "https://github.com/rishavchanda/Buckoid-Android-App",
-      webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-    },
-    {
-      id: 10,
-      title: "Job Finding App",
-      date: "Jun 2023 - Jul 2023",
-      description:
-        "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-      image:
-        "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-      tags: ["React Native", "JavaScript", "Axios"],
-      category: "android app",
-      github: "https://github.com/rishavchanda/Job-finder-App",
-      webapp: "https://github.com/rishavchanda/Job-finder-App",
-    },
-    {
-      id: 4,
-      title: "Whatsapp Clone",
-      date: "Jul 2021",
-      description:
-        "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-      image:
-        "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-      tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-      webapp: "https://whatsapp-clone-rishav.web.app",
-    },
-    {
-      id: 5,
-      title: "Todo Web App",
-      date: "Jun 2021",
-      description:
-        " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-      image:
-        "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-      tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Todo-Web-App",
-      webapp: "https://rishav-react-todo.netlify.app/",
-    },
-    {
-      id: 6,
-      title: "Breaking Bad",
-      date: "Jun 2021",
-      description:
-        "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-      image:
-        "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-      tags: ["React Js", "API", "Axios", "Node JS"],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Breaking-Bad",
-      webapp: "https://breaking-bad-webapp.netlify.app",
-    },
-    {
-      id: 7,
-      title: "Quiz App",
-      date: "Dec 2020 - Jan 2021",
-      description:
-        "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-      image:
-        "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-      tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-      category: "android app",
-      github: "https://github.com/rishavchanda/Quiz-Earn",
-      webapp: "https://github.com/rishavchanda/Quiz-Earn",
-    },
-    {
-      id: 8,
-      title: "Face Recognition",
-      date: "Jan 2021",
-      description:
-        "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-      image:
-        "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-      tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-      category: "machine learning",
-      github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-      webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      title: 'Safecard',
+      date: 'Apr 2024',
+      desc: 'React JS web application for an original company imagined and designed, called Safecard. The premise is, it integrates all your payment methods in 1 card usable anywhere, anytime, and safely.',
+      img: './safecard.jpg',
+      tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'Dark Mode', 'Responsive', 'Bootstrap', 'Tailwind CSS'],
+      github: 'https://github.com/hiimnas/safecard',
+      webapp: 'https://hiimnas.github.io/safecard',
     },
   ];
   
   export const TimeLineData = [
-    { year: 2017, text: "Started my journey" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
+    { year: 2017, text: 'Started my journey' },
+    { year: 2018, text: 'Worked as a freelance developer' },
+    { year: 2019, text: 'Founded JavaScript Mastery' },
+    { year: 2020, text: 'Shared my projects with the world' },
+    { year: 2021, text: 'Started my own platform' },
   ];

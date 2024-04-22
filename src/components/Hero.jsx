@@ -7,7 +7,7 @@ function Hero() {
   return (
 
     <div className='hero my-5' id='home'>
-        <div className='hero-container p-5 bg'>
+        <div className='hero-container p-5'>
             <div className='hero-left'>
                 <h1 className='display-3'>Hi, I'm<br /><span style={{color: 'var(--red)'}}>{Bio.name}</span></h1>
                 <h2 className='h2'>And a <Typewriter options={{strings: Bio.roles, autoStart: true, loop: true}} /></h2>
