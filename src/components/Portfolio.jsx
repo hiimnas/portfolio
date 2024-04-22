@@ -21,7 +21,11 @@ function Portfolio() {
                 <h4 className='h6'>{prj.date}</h4>
                 <p className='fs-7'>{prj.desc}</p>
               </div>
-              <a href={prj.github} className='btn btn-success'>View Source</a>
+              <div className='btn-group'>
+                <a href={prj.webapp} role='button' className='btn btn-light'><i className='bi bi-globe'></i> Website</a>
+                <a href={prj.github} role='button' className='btn btn-success'>Source <i className='bi bi-github'></i></a>
+              </div>
+              
             </a>
           ))}
         </div>

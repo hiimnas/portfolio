@@ -110,13 +110,13 @@
     align-items: center;
 }
 
-.btn {
+.btn, .btn-group {
     min-width: fit-content;
     text-wrap: nowrap;
 }
 
-.project-card .btn {
+.project-card .btn-group {
     width: 30%;
     align-self: center;
-    margin: auto auto 10px;
+    margin: auto auto 1rem;
 }
