@@ -105,10 +105,6 @@
         width: 300px;
     }
 
-    .bg-card .card-logo {
-        height: 50px;
-    }
-
     .bg-card .card-info .h5 {
         font-size: 18px;
     }
@@ -119,5 +115,16 @@
 
     .card-desc .fs-7 {
         font-size: 14px;
+    }
+
+    .card-header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .bg-card .card-info {
+        padding: 0;
     }
 }

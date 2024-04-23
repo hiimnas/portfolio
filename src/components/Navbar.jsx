@@ -29,6 +29,7 @@ function Navbar() {
                 </ul>
                 
                 <ul className='social'>
+                    <li><a href='#contact'><i className='bi bi-line'></i></a></li>
                     <li><a href='https://www.instagram.com/hiimnas_tea/' target='_blank'><i className='bi bi-instagram'></i></a></li>
                     <li><a href='https://github.com/hiimnas' target='_blank'><i className='bi bi-github'></i></a></li>
                     <li><a href='https://www.fiverr.com/hiiimnas' target='_blank'><i className='bi bi-shop'></i></a></li>

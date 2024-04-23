@@ -1,0 +1,31 @@
+footer {
+    margin-top: 3rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.foot-logo {
+    display: flex;
+    align-items: end;
+}
+
+.foot-logo img {
+    height: 50px;
+}
+
+.foot-logo h2 {
+    margin: auto auto 0 6px;
+}
+
+footer {
+    color: white;
+}
+
+footer p {
+    margin-bottom: 0;
+    margin-left: 12px;
+    margin-top: auto;
+}

@@ -46,6 +46,8 @@
 @media screen and (max-width: 960px) {
     .hero-container {
         flex-direction: column;
+        justify-content: center;
+        text-align: center;
     }
 
     .hero-left {
