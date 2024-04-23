@@ -7,7 +7,7 @@ export const Bio = {
       'IT Consultant',
     ],
     description: 'My goal is to change the world by supporting and inspiring others, one person at a time. My work is a way of life. I work hard every day, driven by creativity and a desire for perfection, tackling challenges directly and seeking opportunities to make a positive impact. From custom hardware to professional websites, I bring passion, expertise, and positivity to every single project. With diverse skills and thirst for knowledge, I am committed to delivering great results.',
-    resume: 'https://e.pcloud.link/publink/show?code=XZCso9Zrkb8PMfCsu71I7SQbSuVDHjTdImV'
+    resume: 'https://e.pcloud.link/publink/show?code=XZTC0MZGgNGU5bXXwRKTHOOuR7smutG3Ory'
   };
   
   export const skills = [
