@@ -20,7 +20,7 @@ function Contact() {
 
       setTimeout(() => {
         setShowSuccessMessage(false);
-      }, 6969);
+      }, 3333);
     }).catch((error) => {
       console.error('Error sending message:', error.text);
     });

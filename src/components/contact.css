@@ -116,4 +116,20 @@
         gap: 1rem;
         text-align: center;
     }
+
+    .contact .display-3 {
+        width: 100%;
+    }
+    
+    .contact .h4 {
+        width: 100%;
+    }
+
+    .contact h1 {
+        display: none;
+    }
+
+    .contact-header .line-qr {
+        margin: 1rem auto;
+    }
 }
