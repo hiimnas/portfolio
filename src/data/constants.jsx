@@ -7,7 +7,7 @@ export const Bio = {
       'IT Consultant',
     ],
     description: 'My goal is to change the world by supporting and inspiring others, one person at a time. My work is a way of life. I work hard every day, driven by creativity and a desire for perfection, tackling challenges directly and seeking opportunities to make a positive impact. From custom hardware to professional websites, I bring passion, expertise, and positivity to every single project. With diverse skills and thirst for knowledge, I am committed to delivering great results.',
-    resume: 'https://e.pcloud.link/publink/show?code=XZTC0MZGgNGU5bXXwRKTHOOuR7smutG3Ory'
+    resume: 'https://e.pcloud.link/publink/show?code=XZCso9Zrkb8PMfCsu71I7SQbSuVDHjTdImV'
   };
   
   export const skills = [
@@ -332,7 +332,7 @@ export const Bio = {
       date: 'March 2024',
       desc: 'React JS web application for an original company imagined and designed, called Purifai. It\'s imagined as an alternative to OpenAI with more capabilities, while being user-friendly for all.',
       img: './purifai.jpg',
-      tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'Dark Mode', 'Responsive'],
+      tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'Dark Mode', 'Responsive', 'GPT'],
       github: 'https://github.com/hiimnas/purifai',
       webapp: 'https://hiimnas.github.io/purifai',
     },
@@ -355,6 +355,16 @@ export const Bio = {
       tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'Premiere Pro', 'Dark Mode', 'Responsive', 'Bootstrap', 'Tailwind CSS'],
       github: 'https://github.com/hiimnas/safecard',
       webapp: 'https://hiimnas.github.io/safecard',
+    },
+    {
+      id: 3,
+      title: 'AI bcd',
+      date: 'Jun 2024',
+      desc: 'React JS web application for an application similar to popular GPT tools created by "AI bcd" - an original company. It\'s powered by Google\'s Gemini API.',
+      img: './aibcd.jpg',
+      tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'Photoshop', 'API', 'Backend', 'Light Mode', 'Responsive', 'Bootstrap', 'GPT'],
+      github: 'https://github.com/hiimnas/aibcd',
+      webapp: 'https://hiimnas.github.io/aibcd',
     },
   ];
   

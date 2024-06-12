@@ -23,7 +23,7 @@
     flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     gap: 12px;
 }
 
