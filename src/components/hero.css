@@ -47,7 +47,9 @@
     .hero-container {
         flex-direction: column;
         justify-content: center;
-        text-align: center;
+        text-align: center; 
+        padding-left: 20px !important;
+        padding-right: 20px !important;
     }
 
     .hero-left {
@@ -73,5 +75,11 @@
 @media screen and (max-width: 640px) {
     .hero-right {
         margin-bottom: 1rem;
+    }
+
+    .hero-container .h2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }
