@@ -281,18 +281,10 @@ export const Bio = {
       school: 'Kansai College of Business and Languages (関西外語専門学校)',
       date: 'Apr. 2023 - Apr. 2025 (in progress)',
       desc: 'Focused on Japanese language and culture, enhancing communication skills and understanding.',
-      degree: 'Associates Degree in Japanese, Japanese Language Proficiency Test N2 Level',
+      degree: 'Associates Degree in Japanese, Japanese Language Proficiency Test N2 + N1 Level',
     },
     {
       id: 2,
-      img: './softuni.jpg',
-      school: 'Software University BG (Софтуерен Университет БГ)',
-      date: 'Sept. 2020 - June 2023',
-      desc: 'Developed expertise in C# programming and web development, gaining practical skills for software engineering.',
-      degree: 'C# Web Developer Diploma',
-    },
-    {
-      id: 3,
       img: './hmg.png',
       school: 'HM Government | Institute for Apprenticeships and Technical Education',
       date: 'Sept. 2020 - May 2022',
@@ -300,7 +292,7 @@ export const Bio = {
       degree: 'Level 4 Business Analyst Diploma',
     },
     {
-      id: 4,
+      id: 3,
       img: './ticc.png',
       school: 'Tianjin International Chinese College (online)',
       date: 'July 2020 - Mar. 2022',
@@ -308,7 +300,7 @@ export const Bio = {
       degree: 'Chinese Proficiency Test (HSK) Level 6',
     },
     {
-      id: 5,
+      id: 4,
       img: './daos.png',
       school: 'Dame Alice Owen\'s School',
       date: 'Sept. 2018 - July 2020',
@@ -316,7 +308,7 @@ export const Bio = {
       degree: 'A-Levels in Maths, Further Maths, Physics and German',
     },
     {
-      id: 6,
+      id: 5,
       img: './bsc.png',
       school: 'Bishop\'s Stortford College',
       date: 'Sept. 2016 - July 2018',
